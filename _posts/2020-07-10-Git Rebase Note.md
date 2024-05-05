@@ -17,6 +17,4 @@ Rebase 從名字可以看出是由 Re 這個字首和 Base 所組合，大概可
 
 這個時候我們可以藉由先把對象merge到身上，然後進行 conflict 的追蹤以及確認。在這一個部份我們可以使用 android studio 裡面的工具進行 conflict 的 review，在 android studio 中 VCS > Git > Resolve Conflicts。開啟後便可以針對有衝突的檔案進行單獨的檢查。
 
-![Android Rebase](/assets/images/2020/gitrebase.png)
-
 接著在把 merge 發生的 conflict 解決完之後，我們就可以在進行一次 rebase，這一次可能害是會有幾筆的 conflict，不過解決起來應該會比一開始直接做 rebase 來的輕鬆些。同樣在這邊解 conflict 一樣可以。
