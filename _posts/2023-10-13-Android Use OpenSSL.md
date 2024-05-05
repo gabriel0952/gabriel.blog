@@ -138,5 +138,5 @@ protected void onCreate(Bundle savedInstanceState) {
 
 ---
 
-最後附上範例程式提供參考 [GitHub Link](http://) \
+最後附上範例程式提供參考 [GitHub Link](https://gabriel0952.github.io/gabriel.github.io/) \
 其中有再多加了一個接口的 stringFromMD5 提供參考
