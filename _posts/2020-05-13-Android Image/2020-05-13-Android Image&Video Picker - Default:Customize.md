@@ -2,6 +2,7 @@
 layout: post
 title: Android的圖片/影片選擇器(瀏覽器) - Default/Customize
 tags: [Android, Java]
+categories: [Android]
 ---
 
 ## 前言

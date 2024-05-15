@@ -2,6 +2,7 @@
 layout: post
 title: Android 中使用 OpenSSL
 tag: [Android, Java, JNI, OpenSSL]
+categories: [Android]
 ---
 
 ## 概述

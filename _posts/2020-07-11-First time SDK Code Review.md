@@ -2,6 +2,7 @@
 layout: post
 title: 第一次 SDK Code Review 心得
 tags: [心得, Git, Code review]
+categories: [Git, 心得]
 ---
 
 在寫這篇時突然想起蠻久以前有看過一篇關於 code review 的文章還不錯，在這邊先分享給大家 [讓 Google 教你 Code Review](https://medium.com/@ryanyang1221/%E8%AE%93-google-%E6%95%99%E4%BD%A0-code-review-be251d4d81b4) ，如果是想看比較有內容有深度應該會收穫比較多的可以點連結過去看一下，下面純屬小菜雞工程師最近遇到的事情以及小小的感想

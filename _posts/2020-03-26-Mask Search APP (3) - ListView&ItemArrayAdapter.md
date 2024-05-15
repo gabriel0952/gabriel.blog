@@ -2,6 +2,7 @@
 layout: post
 title: 自己做自己的口罩查詢APP (3) - 通通變成我的形狀吧 ListView&ItemArrayAdapter 
 tags: [Android, Java]
+categories: [Android]
 ---
 
 ## 前言

@@ -2,6 +2,7 @@
 layout: post
 title: CocoaPods 在 Swift 環境建置與簡單使用
 tags: [Swift, CocoaPods]
+categories: [iOS, Swift]
 ---
 
 ### CocoaPods 是什麼？

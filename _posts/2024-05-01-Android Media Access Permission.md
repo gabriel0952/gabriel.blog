@@ -2,6 +2,7 @@
 layout: post
 title: Android 多媒體檔案權限 - 部分存取
 tag: [Android, Kotlin, Permission, Media, Image, Video]
+categories: [Android]
 ---
 
 ## 概述

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 用 UIPageViewController 來製作屬於APP的使用說明(引導頁面)
-tags: [Swift, UIPageViewController]
+tags: [iOS, Swift, UIPageViewController]
+categories: [iOS]
 ---
 
 前言

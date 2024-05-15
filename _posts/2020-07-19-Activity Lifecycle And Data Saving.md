@@ -2,6 +2,7 @@
 layout: post
 title: Activity 生命週期與資料保存
 tags: [note, Android, life cycle]
+categories: [Android]
 ---
 
 ## 前言

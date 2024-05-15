@@ -2,6 +2,7 @@
 layout: post
 title: 擴展(Extensions)翻譯與筆記
 tags: [note, iOS, Swift, Extensions]
+categories: [iOS]
 ---
 
 > 本文根據 [The swift programming language](https://docs.swift.org/swift-book/LanguageGuide/Extensions.html) ，進行翻譯以及筆記整理。

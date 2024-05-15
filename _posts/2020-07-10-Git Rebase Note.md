@@ -2,6 +2,7 @@
 layout: post
 title: Git Rebase 注意事項
 tags: [note, Git]
+categories: [Git, 心得]
 ---
 
 ## 什麼是 Rebase

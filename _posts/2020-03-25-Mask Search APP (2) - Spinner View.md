@@ -2,6 +2,7 @@
 layout: post
 title: 自己做自己的口罩查詢APP (2) - 打開吧 我的 Spinner View 
 tags: [Android, Java]
+categories: [Android]
 ---
 
 ## 回顧

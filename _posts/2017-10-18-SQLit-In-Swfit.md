@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 在 iOS APP 加上 SQLite
-tags: [Swift, SQLit]
+tags: [iOS, Swift, SQLit]
+categories: [iOS, Swift]
 ---
 
 ## SQLite 介紹

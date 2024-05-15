@@ -2,6 +2,7 @@
 layout: post
 title: 自己做自己的口罩查詢APP (1) - HttpURLConnection資料我全都要
 tags: [Android, Java]
+categories: [Android]
 ---
 
 ## 前言
